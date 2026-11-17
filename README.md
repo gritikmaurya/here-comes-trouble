@@ -1,0 +1,52 @@
+ 
+
+
+> Open this page at [https://gritikmaurya.github.io/here-comes-trouble-2/](https://gritikmaurya.github.io/here-comes-trouble-2/)
+
+## Use as Extension
+
+This repository can be added as an **extension** in MakeCode.
+
+* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
+* click on **New Project**
+* click on **Extensions** under the gearwheel menu
+* search for **https://github.com/gritikmaurya/here-comes-trouble-2** and import
+
+## Edit this project
+
+To edit this repository in MakeCode.
+
+* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
+* click on **Import** then click on **Import URL**
+* paste **https://github.com/gritikmaurya/here-comes-trouble-2** and click import
+
+#### Metadata (used for search, rendering)
+
+* for PXT/arcade
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
+
+> Open this page at [https://gritikmaurya.github.io/here-comes-trouble/](https://gritikmaurya.github.io/here-comes-trouble/)
+
+## Use as Extension
+
+This repository can be added as an **extension** in MakeCode.
+
+* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
+* click on **New Project**
+* click on **Extensions** under the gearwheel menu
+* search for **https://github.com/gritikmaurya/here-comes-trouble** and import
+
+## Edit this project
+
+To edit this repository in MakeCode.
+
+* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
+* click on **Import** then click on **Import URL**
+* paste **https://github.com/gritikmaurya/here-comes-trouble** and click import
+
+#### Metadata (used for search, rendering)
+
+* for PXT/arcade
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
